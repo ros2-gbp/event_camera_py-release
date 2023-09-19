@@ -1,0 +1,15 @@
+ros-humble-event-camera-py (1.1.2-1bullseye) bullseye; urgency=high
+
+  * fix pybind11_vendor dependency in package.xml
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Tue, 19 Sep 2023 04:00:00 -0000
+
+ros-humble-event-camera-py (1.1.1-1bullseye) bullseye; urgency=high
+
+  * Initial release
+  * Contributors: Bernd Pfrommer, Fernando Cladera, k-chaney
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Tue, 19 Sep 2023 04:00:00 -0000
+
+
