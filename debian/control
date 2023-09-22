@@ -1,0 +1,12 @@
+Source: ros-rolling-event-camera-py
+Section: misc
+Priority: optional
+Maintainer: Bernd Pfrommer <bernd.pfrommer@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), python3-numpy <!nocheck>, ros-rolling-ament-cmake, ros-rolling-ament-cmake-auto, ros-rolling-ament-cmake-clang-format <!nocheck>, ros-rolling-ament-cmake-pytest <!nocheck>, ros-rolling-ament-cmake-python, ros-rolling-ament-cmake-ros, ros-rolling-ament-lint-auto <!nocheck>, ros-rolling-ament-lint-common <!nocheck>, ros-rolling-event-camera-codecs, ros-rolling-event-camera-msgs, ros-rolling-pybind11-vendor, ros-rolling-python-cmake-module, ros-rolling-rclpy <!nocheck>, ros-rolling-ros-environment, ros-rolling-rosbag2-py <!nocheck>, ros-rolling-rosbag2-storage-default-plugins <!nocheck>, ros-rolling-rosidl-runtime-py <!nocheck>, ros-rolling-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-rolling-event-camera-py
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-rolling-event-camera-codecs, ros-rolling-event-camera-msgs, ros-rolling-pybind11-vendor, ros-rolling-ros-environment, ros-rolling-ros-workspace
+Description: Python access for event_camera_msgs.
