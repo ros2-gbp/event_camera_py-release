@@ -1,3 +1,26 @@
+## event_camera_py (humble) - 1.1.4-1
+
+The packages in the `event_camera_py` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble event_camera_py` on `Sun, 04 Feb 2024 20:06:43 -0000`
+
+The `event_camera_py` package was released.
+
+Version of package(s) in repository `event_camera_py`:
+
+- upstream repository: https://github.com/ros-event-camera/event_camera_py.git
+- release repository: https://github.com/ros2-gbp/event_camera_py-release.git
+- rosdistro version: `1.1.3-1`
+- old version: `1.1.3-1`
+- new version: `1.1.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## event_camera_py (rolling) - 1.0.4-1
 
 The packages in the `event_camera_py` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling event_camera_py` on `Sun, 04 Feb 2024 20:04:12 -0000`
