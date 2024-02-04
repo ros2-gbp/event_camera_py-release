@@ -1,0 +1,30 @@
+ros-rolling-event-camera-py (1.0.4-1bullseye) bullseye; urgency=high
+
+  * reformat to flake8 using ruff
+  * support for libcaer time stamps starting at epoch
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Sun, 04 Feb 2024 05:00:00 -0000
+
+ros-rolling-event-camera-py (1.0.3-1bullseye) bullseye; urgency=high
+
+  * improved README, fixed python test dependencies
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Fri, 22 Sep 2023 04:00:00 -0000
+
+ros-rolling-event-camera-py (1.0.2-1bullseye) bullseye; urgency=high
+
+  * fix pybind11_vendor dependency in package.xml
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Tue, 19 Sep 2023 04:00:00 -0000
+
+ros-rolling-event-camera-py (1.0.1-1bullseye) bullseye; urgency=high
+
+  * Initial release
+  * Contributors: Bernd Pfrommer, Fernando Cladera, k-chaney
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Tue, 19 Sep 2023 04:00:00 -0000
+
+
