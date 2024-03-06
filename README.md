@@ -1,3 +1,26 @@
+## event_camera_py (iron) - 1.2.5-1
+
+The packages in the `event_camera_py` repository were released into the `iron` distro by running `/usr/bin/bloom-release --rosdistro iron event_camera_py` on `Wed, 06 Mar 2024 16:52:24 -0000`
+
+The `event_camera_py` package was released.
+
+Version of package(s) in repository `event_camera_py`:
+
+- upstream repository: https://github.com/ros-event-camera/event_camera_py.git
+- release repository: https://github.com/ros2-gbp/event_camera_py-release.git
+- rosdistro version: `1.2.4-1`
+- old version: `1.2.4-1`
+- new version: `1.2.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## event_camera_py (iron) - 1.2.4-1
 
 The packages in the `event_camera_py` repository were released into the `iron` distro by running `/usr/bin/bloom-release --new-track --rosdistro iron --track iron event_camera_py` on `Sun, 04 Feb 2024 20:12:48 -0000`
