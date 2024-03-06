@@ -2,23 +2,14 @@
 Changelog for package event_camera_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.0.4 (2024-02-04)
+1.2.5 (2024-03-06)
 ------------------
-* reformat to flake8 using ruff
-* support for libcaer time stamps starting at epoch
+* added current work dir to the path in conf.py
+* updated README for better viewing on rosindex
+* removed unused imports
 * Contributors: Bernd Pfrommer
 
-1.0.3 (2023-09-22)
+1.2.4 (2024-02-04)
 ------------------
-* improved README, fixed python test dependencies
-* Contributors: Bernd Pfrommer
-
-1.0.2 (2023-09-19)
-------------------
-* fix pybind11_vendor dependency in package.xml
-* Contributors: Bernd Pfrommer
-
-1.0.1 (2023-09-19)
-------------------
-* Initial release
+* first release as a ROS package to iron
 * Contributors: Bernd Pfrommer, Fernando Cladera, k-chaney
