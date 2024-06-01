@@ -1,3 +1,26 @@
+## event_camera_py (jazzy) - 1.3.6-1
+
+The packages in the `event_camera_py` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy event_camera_py` on `Sat, 01 Jun 2024 10:48:47 -0000`
+
+The `event_camera_py` package was released.
+
+Version of package(s) in repository `event_camera_py`:
+
+- upstream repository: https://github.com/ros-event-camera/event_camera_py.git
+- release repository: https://github.com/ros2-gbp/event_camera_py-release.git
+- rosdistro version: `1.3.5-1`
+- old version: `1.3.5-1`
+- new version: `1.3.6-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.24.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## event_camera_py (rolling) - 1.0.6-1
 
 The packages in the `event_camera_py` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling event_camera_py` on `Sat, 01 Jun 2024 10:44:54 -0000`
