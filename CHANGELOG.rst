@@ -2,12 +2,31 @@
 Changelog for package event_camera_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.3.6 (2024-06-01)
+1.1.6 (2024-06-01)
 ------------------
 * bumped cmake required
+* added current work dir to the path in conf.py
+* updated README for better viewing on rosindex
+* removed unused imports
 * Contributors: Bernd Pfrommer
 
-1.3.5 (2024-05-29)
+1.1.4 (2024-02-04)
 ------------------
-* first release on Jazzy
+* reformat to flake8 using ruff
+* support for libcaer time stamps starting at epoch
+* Contributors: Bernd Pfrommer
+
+1.1.3 (2023-09-22)
+------------------
+* improved README, fixed python test dependencies
+* Contributors: Bernd Pfrommer
+
+1.1.2 (2023-09-19)
+------------------
+* fix pybind11_vendor dependency in package.xml
+* Contributors: Bernd Pfrommer
+
+1.1.1 (2023-09-19)
+------------------
+* Initial release
 * Contributors: Bernd Pfrommer, Fernando Cladera, k-chaney
