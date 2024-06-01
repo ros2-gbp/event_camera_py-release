@@ -2,6 +2,14 @@
 Changelog for package event_camera_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.6 (2024-06-01)
+------------------
+* bumped cmake required
+* added current work dir to the path in conf.py
+* updated README for better viewing on rosindex
+* removed unused imports
+* Contributors: Bernd Pfrommer
+
 1.1.4 (2024-02-04)
 ------------------
 * reformat to flake8 using ruff
