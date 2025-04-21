@@ -2,6 +2,12 @@
 Changelog for package event_camera_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.0 (2025-04-21)
+------------------
+* support find_first_sensor_time
+* do not specify storage id
+* Contributors: Bernd Pfrommer
+
 1.0.6 (2024-06-01)
 ------------------
 * bumped cmake required
